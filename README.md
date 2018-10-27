@@ -7,6 +7,21 @@
 ## 程序流程图
 ![程序流程架构图](https://i.loli.net/2018/10/27/5bd3e35e053d0.png)
 
+## 安装
+
+    // 获取项目源码
+    $ cd $GOPATH/src
+    $ git clone git@github.com:AustinDeng/data-processing-example.git
+    
+
+## 运行
+
+    // 进入目录
+    $ cd $GOPATH/src/data-processing-example
+    
+    // 执行命令
+    $ go run main.go
+
 ## 接口实现
 
         // 定义了要实现的新搜索类型的行为
